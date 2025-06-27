@@ -10,15 +10,19 @@ Week 1 :
 - Got familiar with elementary data structures like vectors and Arrays.
 - Learned about Big O notation and its role in representing time and space complexity.
 - Solved problems related to Binary Search and Sorting.
+  
 Week 2 :
 - Learned new data structures such as queues, sets, maps etc.
 - Learned more about sorting algorithms and bit manipulation
+  
 Week 3 :
 - Got introduced to Graphs
 - Learned the two methods of graph traversal ( BFS and DFS )
 - Solved problems in CSES
+  
 Week 4 :
 - Break week to clear backlogs if any
+  
 Week 5 :
 - Got introduced to spanning trees and algorithms for finding shortest paths
 - Learned Dijsktra, Prim and Kruskal Algorithms
