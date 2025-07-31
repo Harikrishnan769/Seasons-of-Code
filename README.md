@@ -29,4 +29,13 @@ Week 5 :
 - Introduction to Union Find Data Structures
 - Solved problems in CSES and Codeforces
 
+Week 6
+- Learnt about greedy algorithms and the situations in which they can be used
+- Solved problems in Leetcode and CSES
+
+Week 7
+- Got introduced to Dynamic Programming
+- Learnt about memoization and solved problems in recursion
+- Solved problems in CSES
+  
                  
